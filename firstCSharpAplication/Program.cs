@@ -10,6 +10,7 @@ namespace firstCSharpAplication
     {
         static void Main(string[] args)
         {
+            //this is my fersit program
         }
     }
 }
